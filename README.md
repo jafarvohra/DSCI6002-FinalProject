@@ -8,6 +8,8 @@ In this update, you will find...
 - A second slide deck updating the progress that was made previously and outlining the overall project
 - A folder dedicated to the Flask web application that deploys the completed model that was created
 
+[DSCI6002_Final_Technical_Report.pdf](https://github.com/jafarvohra/DSCI6002-FinalProject/files/13601702/DSCI6002_Final_Technical_Report.pdf)
+
 ## October 18th Update
 
 Hello Dr. Sula and students! We hope you enjoy our progress on this project thus far. Our goal is to $\textbf{Evaluate Heart Attack Risk Factors}$.
